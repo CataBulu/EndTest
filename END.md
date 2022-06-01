@@ -11,3 +11,4 @@ cout<<"Aceasta este scadearea"<<b;
 cout<<"Aceasta este suma"<<"="<<a;
 }
 return 0;
+#ACESTA ESTE UN EXEMPLU
